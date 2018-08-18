@@ -5,3 +5,14 @@
  */
 
 /*# sourceMappingURL=custom.css.map */
+
+#frase1
+{
+	font-size: 20px;
+    color: #e6e6e6;
+}
+
+.icon-adobe,.icon-wordpress,.icon-pushpin,.icon-google-drive,.icon-github-alt,.icon-slack{
+	color: #e6e6e6;
+	font-size: 25px;
+}

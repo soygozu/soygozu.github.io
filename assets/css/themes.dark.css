@@ -4,17 +4,20 @@
 /* Body */
 body {
   background: #2d2e2e;
-  color: #979899;
+  color: #E6E6E6;
 }
 
 /* Heading */
 h1,
-h2,
 h3,
+  color: #ffc21b;
+}
+
+h2,
 h4,
 h5,
 h6 {
-  color: #a4a5a6;
+  color: #E6E6E6;
 }
 
 /* Link Container */
@@ -102,7 +105,7 @@ hr,
 
 .t-title__second-word {
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .t-sub-title {
@@ -123,7 +126,7 @@ hr,
 }
 
 .t-social-button .fa {
-  color: #717273;
+  color: #e0a80d;
 }
 
 .t-social-button:hover {
