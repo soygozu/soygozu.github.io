@@ -4,7 +4,7 @@
 /* Body */
 body {
   background: #fff;
-  color: #939393;
+  color: #000;
 }
 
 /* Heading */
@@ -14,7 +14,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #727272;
+  color: #000;
 }
 
 /* Link Container */

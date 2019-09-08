@@ -4,20 +4,20 @@
 /* Body */
 body {
   background: #2d2e2e;
-  color: #E6E6E6;
+  color: #fff;
 }
 
 /* Heading */
 h1,
 h3,
-  color: #ffc21b;
+  color: #fff;
 }
 
 h2,
 h4,
 h5,
 h6 {
-  color: #E6E6E6;
+  color: #fff;
 }
 
 /* Link Container */
@@ -40,7 +40,7 @@ h6 {
 a,
 .t-link-container .t-link-container__item,
 .t-link-container:hover .t-link-container__item--blended {
-  color: #e0a80d;
+  color: #fdcd00;
 }
 
 /* Hover Links */
@@ -70,7 +70,7 @@ hr,
 
 .t-primary-bg,
 .t-primary-color-line {
-  background: #e0a80d;
+  background: #fdcd00;
 }
 
 /* Preloader */
@@ -81,11 +81,11 @@ hr,
 
 /* Brand Colors */
 .t-title__first-word {
-  color: #a4a5a6;
+  color: #fff;
 }
 
 .t-title__second-word {
-  color: #e0a80d;
+  color: #FDCD00;
 }
 
 .t-sub-title {
@@ -126,7 +126,7 @@ hr,
 }
 
 .t-social-button .fa {
-  color: #e0a80d;
+  color: #fdcd00;
 }
 
 .t-social-button:hover {
